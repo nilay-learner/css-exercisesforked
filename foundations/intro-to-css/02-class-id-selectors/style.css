@@ -1,0 +1,7 @@
+.odd-element{background-color: rgb(255, 0, 102);
+font-family:verdana,"DejaVu Sans","sans-serif";}
+.fsize{font: size 24px;}
+#bluesize36{font-size:36;
+  color:rgb(0, 0, 100%);}
+#lgreen-24-bold{background-color:hsl(120, 73%, 75%);
+font-size:24px;font-weight: bold;}
